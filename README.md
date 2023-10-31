@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @florianstich
 - 👀 I’m interested in macroeconomics and economics in general.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me florian.stich@unibas.ch
 
 <!---
